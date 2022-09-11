@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lavoysbugtracker/static/css/main.c715713a.css",
+    "main.js": "/lavoysbugtracker/static/js/main.3ceba5ac.js",
+    "static/media/imageBG.jpg": "/lavoysbugtracker/static/media/imageBG.e4284dcdfb7b521f6158.jpg",
+    "index.html": "/lavoysbugtracker/index.html",
+    "main.c715713a.css.map": "/lavoysbugtracker/static/css/main.c715713a.css.map",
+    "main.3ceba5ac.js.map": "/lavoysbugtracker/static/js/main.3ceba5ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c715713a.css",
+    "static/js/main.3ceba5ac.js"
+  ]
+}
