@@ -1,0 +1,33 @@
+.dashboard-card{
+    border-radius: 36px;
+    background:linear-gradient(0deg,#de00f296 0%, #3300ff96 100%);
+    min-width: 275px;
+    min-height: 200px;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px #000000a8;
+}
+.dashboard-card:hover{
+    transition: all 0.3s;
+    transform: scale(1.05);
+}
+.dashboard-card h2{
+    width: 100%;
+    margin-top: 5px;
+    font-size: 30px;
+    -webkit-text-stroke: black;
+    -webkit-text-stroke-width: 1px;
+
+    
+}
+.dashboard-card p{
+    font-size: 52px;
+    margin: 0px;
+    -webkit-text-stroke: black;
+    -webkit-text-stroke-width: 1px;
+
+}
